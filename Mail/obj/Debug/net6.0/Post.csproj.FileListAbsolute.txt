@@ -1,0 +1,12 @@
+D:\NIGGERS\ConsoleApp1\Mail\bin\Debug\net6.0\Post.deps.json
+D:\NIGGERS\ConsoleApp1\Mail\bin\Debug\net6.0\Post.dll
+D:\NIGGERS\ConsoleApp1\Mail\bin\Debug\net6.0\Post.pdb
+D:\NIGGERS\ConsoleApp1\Mail\obj\Debug\net6.0\Post.csproj.AssemblyReference.cache
+D:\NIGGERS\ConsoleApp1\Mail\obj\Debug\net6.0\Post.GeneratedMSBuildEditorConfig.editorconfig
+D:\NIGGERS\ConsoleApp1\Mail\obj\Debug\net6.0\Post.AssemblyInfoInputs.cache
+D:\NIGGERS\ConsoleApp1\Mail\obj\Debug\net6.0\Post.AssemblyInfo.cs
+D:\NIGGERS\ConsoleApp1\Mail\obj\Debug\net6.0\Post.csproj.CoreCompileInputs.cache
+D:\NIGGERS\ConsoleApp1\Mail\obj\Debug\net6.0\Post.dll
+D:\NIGGERS\ConsoleApp1\Mail\obj\Debug\net6.0\refint\Post.dll
+D:\NIGGERS\ConsoleApp1\Mail\obj\Debug\net6.0\Post.pdb
+D:\NIGGERS\ConsoleApp1\Mail\obj\Debug\net6.0\ref\Post.dll
