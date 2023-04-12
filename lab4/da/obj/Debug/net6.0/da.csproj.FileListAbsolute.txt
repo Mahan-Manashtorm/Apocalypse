@@ -1,0 +1,12 @@
+D:\NIGGERS\lab4\da\bin\Debug\net6.0\da.deps.json
+D:\NIGGERS\lab4\da\bin\Debug\net6.0\da.dll
+D:\NIGGERS\lab4\da\bin\Debug\net6.0\da.pdb
+D:\NIGGERS\lab4\da\obj\Debug\net6.0\da.csproj.AssemblyReference.cache
+D:\NIGGERS\lab4\da\obj\Debug\net6.0\da.GeneratedMSBuildEditorConfig.editorconfig
+D:\NIGGERS\lab4\da\obj\Debug\net6.0\da.AssemblyInfoInputs.cache
+D:\NIGGERS\lab4\da\obj\Debug\net6.0\da.AssemblyInfo.cs
+D:\NIGGERS\lab4\da\obj\Debug\net6.0\da.csproj.CoreCompileInputs.cache
+D:\NIGGERS\lab4\da\obj\Debug\net6.0\da.dll
+D:\NIGGERS\lab4\da\obj\Debug\net6.0\refint\da.dll
+D:\NIGGERS\lab4\da\obj\Debug\net6.0\da.pdb
+D:\NIGGERS\lab4\da\obj\Debug\net6.0\ref\da.dll
