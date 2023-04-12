@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Laba3/1.0.0": {
+        "dependencies": {
+          "da": "1.0.0"
+        },
+        "runtime": {
+          "Laba3.dll": {}
+        }
+      },
+      "da/1.0.0": {
+        "runtime": {
+          "da.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Laba3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "da/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
