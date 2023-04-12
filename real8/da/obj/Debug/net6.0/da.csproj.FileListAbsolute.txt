@@ -1,0 +1,12 @@
+C:\Users\mahan\OneDrive\Рабочий стол\real8\da\bin\Debug\net6.0\da.deps.json
+C:\Users\mahan\OneDrive\Рабочий стол\real8\da\bin\Debug\net6.0\da.dll
+C:\Users\mahan\OneDrive\Рабочий стол\real8\da\bin\Debug\net6.0\da.pdb
+C:\Users\mahan\OneDrive\Рабочий стол\real8\da\obj\Debug\net6.0\da.csproj.AssemblyReference.cache
+C:\Users\mahan\OneDrive\Рабочий стол\real8\da\obj\Debug\net6.0\da.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahan\OneDrive\Рабочий стол\real8\da\obj\Debug\net6.0\da.AssemblyInfoInputs.cache
+C:\Users\mahan\OneDrive\Рабочий стол\real8\da\obj\Debug\net6.0\da.AssemblyInfo.cs
+C:\Users\mahan\OneDrive\Рабочий стол\real8\da\obj\Debug\net6.0\da.csproj.CoreCompileInputs.cache
+C:\Users\mahan\OneDrive\Рабочий стол\real8\da\obj\Debug\net6.0\da.dll
+C:\Users\mahan\OneDrive\Рабочий стол\real8\da\obj\Debug\net6.0\refint\da.dll
+C:\Users\mahan\OneDrive\Рабочий стол\real8\da\obj\Debug\net6.0\da.pdb
+C:\Users\mahan\OneDrive\Рабочий стол\real8\da\obj\Debug\net6.0\ref\da.dll
