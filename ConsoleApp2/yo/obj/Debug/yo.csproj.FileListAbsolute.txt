@@ -1,0 +1,9 @@
+D:\NIGGERS\ConsoleApp2\yo\bin\Debug\yo.dll
+D:\NIGGERS\ConsoleApp2\yo\bin\Debug\yo.pdb
+D:\NIGGERS\ConsoleApp2\yo\bin\Debug\Newtonsoft.Json.dll
+D:\NIGGERS\ConsoleApp2\yo\bin\Debug\Newtonsoft.Json.xml
+D:\NIGGERS\ConsoleApp2\yo\obj\Debug\yo.csproj.AssemblyReference.cache
+D:\NIGGERS\ConsoleApp2\yo\obj\Debug\yo.csproj.CoreCompileInputs.cache
+D:\NIGGERS\ConsoleApp2\yo\obj\Debug\yo.csproj.CopyComplete
+D:\NIGGERS\ConsoleApp2\yo\obj\Debug\yo.dll
+D:\NIGGERS\ConsoleApp2\yo\obj\Debug\yo.pdb
